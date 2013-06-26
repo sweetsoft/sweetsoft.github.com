@@ -8,3 +8,9 @@ layout: posts
 * ƒŠƒXƒg
 
 ....
+
+
+---
+layout: post
+title: Blogging Like a Hacker
+---
