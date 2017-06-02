@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sweet-Soft</title>
+    <link>http://sweet-soft.com/post/</link>
+    <description>Recent content in Posts on Sweet-Soft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>Sweet-Soft All rights reserved.</copyright>
+    <lastBuildDate>Wed, 10 Aug 2011 13:26:08 +0900</lastBuildDate>
+    
+	<atom:link href="http://sweet-soft.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ニンテンドー3DSダウンロードソフト「VectorRacing」配信開始！</title>
+      <link>http://sweet-soft.com/post/2011-08-10_vectorracing_3ds/</link>
+      <pubDate>Wed, 10 Aug 2011 13:26:08 +0900</pubDate>
+      
+      <guid>http://sweet-soft.com/post/2011-08-10_vectorracing_3ds/</guid>
+      <description>いよいよ本日、ニンテンドー3DSダウンロードソフト「VectorRacing」配信開始です！ ゲームモードの追加や、コースの追加、ローカル通信対戦など iPhone版から色々パワーアップしています。 ゲーム紹介はこちらです ニンテンドーeショップ : http://www.nintendo.co.jp/3ds/eshop/jbvj/index.html Arc Style : http://www.arcsystemworks.jp/arcstyle/vectorracing/ /Users/kannaka-h/Work/WebSite/sweet-soft/content/test/test.md</description>
+    </item>
+    
+  </channel>
+</rss>
