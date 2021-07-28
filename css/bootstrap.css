@@ -7399,6 +7399,23 @@ button.list-group-item-danger.active:focus {
   padding-bottom: 75%;
 }
 
+.lb-embed {
+  width: 50%;
+  @media (min-width: @screen-sm) {
+    width: 640px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+}
+.wrap {
+  text-align: center;
+}
+.youtube {
+  max-width: 100%;
+}
+
 .well {
   min-height: 20px;
   padding: 19px;
